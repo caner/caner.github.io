@@ -1,17 +1,17 @@
 # SITE CONFIGURATION
-baseurl: "/Type-on-Strap"
-url: "https://sylhare.github.io"
-title: Type on Strap # site's title
+baseurl: ""
+url: "http://cgural.com"
+title: Caner Gural # site's title
 description: "A website with blog posts and pages" # used by search engines
 
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Type on Strap # blog's title
+  title: Caner Gural # blog's title
   avatar: assets/img/triangle.svg
   favicon: assets/favicon.ico
-  gravatar: # Email MD5 hash
+  gravatar: 22D0B52DED4EDD015DB826B1B723F6F3 # Email MD5 hash
 
   # Header and footer text
   header_text: > #two or three lines to describe your site
@@ -22,34 +22,34 @@ theme_settings:
 
   # Icons
   rss: true  # Make sure you created a feed.xml with feed.xml layout
-  email_address: # Full email address, e.g. "sam@example.com"
+  email_address: cgural@gmail.com # Full email address, e.g. "sam@example.com"
   behance:
   bitbucket:
   dribbble:
   facebook:
   flickr:
   gitlab:
-  github: "sylhare"
+  github: "caner"
   google_plus:
   instagram:
   keybase:
-  linkedin:  # Full URL
+  linkedin: https://linkedin.com/in/cgural  # Full URL
   pinterest:
   reddit:
   soundcloud:
   stack_exchange:  # Full URL
   steam:
   tumblr:
-  twitter: # "twitter username"
+  twitter: cgural # "twitter username"
   vimeo:
   wordpress:
   youtube:
-  
+
   # Sharing options
   share_buttons:
     facebook: true
     twitter: true
-    google_plus: true
+    google_plus: false
     tumblr:
     pinterest:
     pocket:
@@ -58,19 +58,19 @@ theme_settings:
     wordpress:
     email: true
 
-  # Scripts / Features 
+  # Scripts / Features
   google_analytics: # Tracking ID, e.g. "UA-000000-01"
   disqus_shortname:
   katex: true # Enable if using math markup
-  
+
   special_page:
-    search: 
+    search:
       icon: "search" # Assuming page link and icon are the same
       enabled: true
     tags:
       icon: "tags"
       enabled: true
-  
+
   # Localization strings
   str_follow_on: "Follow on"
   str_rss_follow: "Follow RSS feed"
@@ -92,8 +92,8 @@ theme_settings:
 
   # Post navigation
   post_navigation: true
-  
-  
+
+
 # PAGINATION
 paginate: 5
 paginate_path: "blog/page:num"
