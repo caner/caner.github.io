@@ -2,7 +2,7 @@
 baseurl: ""
 url: "http://cgural.com"
 title: Caner Gural # site's title
-description: "A website with blog posts and pages" # used by search engines
+description: "Blog" # used by search engines
 
 
 # THEME-SPECIFIC CONFIGURATION
@@ -15,10 +15,10 @@ theme_settings:
 
   # Header and footer text
   header_text: > #two or three lines to describe your site
-     <p>yay Change header text in <code>_config.yml</code> <br> to update this feature.</p>
+     <p>Welcome to my  <code>personal blog</code></p>
   header_text_feature_image: assets/img/pexels/triangular.jpeg
   footer_text: >
-   Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
+   Powered by <a href="https://jekyllrb.com/">Jekyll</a>
 
   # Icons
   rss: true  # Make sure you created a feed.xml with feed.xml layout
@@ -87,7 +87,7 @@ theme_settings:
 
   # Colours, typography and padding
   # Open the "_sass > base" folder, and open "_variables.scss"
-  google_fonts: "Roboto+Slab:400,700,700italic,400italic"
+  google_fonts: "DM+Serif+Text:400,700,400i,700i|Cardo:400,700,700italic,400italic"
   # Post navigation
   post_navigation: true
 
