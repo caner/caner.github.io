@@ -1,22 +1,24 @@
 # SITE CONFIGURATION
 baseurl: ""
 url: "http://cgural.com"
-title: Caner Gural # site's title
+title: Caner Güral # site's title
 description: "Blog" # used by search engines
 
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Caner Gural # blog's title
-  avatar: assets/img/triangle.svg
+  title: Caner Güral
+  //avatar: assets/img/triangle.svg
+  avatar: "//pbs.twimg.com/profile_images/776169571057369093/VJbNRJ5O_400x400.jpg"
   favicon: assets/favicon.ico
   gravatar: 22D0B52DED4EDD015DB826B1B723F6F3 # Email MD5 hash
 
   # Header and footer text
   header_text: > #two or three lines to describe your site
-     <p>Welcome to my  <code>personal blog</code></p>
-  header_text_feature_image: assets/img/pexels/triangular.jpeg
+     <p>Merhaba, ben Caner Güral. <i>Öğrenme Deneyimi</i> ile ilgili çalışıyorum.</p>
+  //header_text_feature_image: "//images.pexels.com/photos/459631/pexels-photo-459631.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+  header_text_feature_image: assets/img/shutterstock/shutterstock_778009624_cutted.jpg
   footer_text: >
    Powered by <a href="https://jekyllrb.com/">Jekyll</a>
 
