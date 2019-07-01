@@ -1,7 +1,7 @@
 ---
-layout: page
 title: About
-permalink: /about/
+permalink: "/about/"
+layout: page
 feature-img: "//pbs.twimg.com/profile_banners/48965156/1399841496/1500x500"
 ---
 

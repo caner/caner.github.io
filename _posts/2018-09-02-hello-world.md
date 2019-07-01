@@ -1,8 +1,13 @@
 ---
-layout: post
 title: Hello World!
-tags: [A Tag, Test, Lorem, Ipsum]
-excerpt_separator: <!--more-->
+date: 2018-09-02 00:00:00 Z
+tags:
+- A Tag
+- Test
+- Lorem
+- Ipsum
+layout: post
+excerpt_separator: "<!--more-->"
 ---
 
 Consectetur adipiscing elit. Donec a diam lectus. Sed sit amet ipsum mauris. Maecenas congue ligula ac quam viverra nec consectetur ante hendrerit. Donec et mollis dolor.
