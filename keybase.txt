@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/cgural
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://cgural.com
+  * I am cgural (https://keybase.io/cgural) on keybase.
+  * I have a public key ASAD0N3Kp44fY_DMZG8s6yWYBsqRGcWV5qN53JU1nqptxQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01010bdbf97b4a1f6739f0395510e0d0186172bf7d93bde4af5ee49c668c1c5df6340a",
+      "host": "keybase.io",
+      "kid": "012003d0ddcaa78e1f63f0cc646f2ceb259806ca9119c595e6a379dc95359eaa6dc50a",
+      "uid": "243c8d29148523ba20fa5a0a22eecb19",
+      "username": "cgural"
+    },
+    "merkle_root": {
+      "ctime": 1568233002,
+      "hash": "722c7b991f99ca36ce23455d044d4911b995e6ddeeff1c6cde4c5280c05beb0456e3d1c6a22a8b118f8425c17302334d8a13c17a90f0ef9debe7c25e2ee71e98",
+      "hash_meta": "56b594a1ac2d8fdde1433a8809a9e739da31165bfb2f29ccd0e38bdafb9ffa6b",
+      "seqno": 6808016
+    },
+    "service": {
+      "entropy": "kQg/pM97NjUGiOjTrZfLhNZM",
+      "hostname": "cgural.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.1"
+  },
+  "ctime": 1568233015,
+  "expire_in": 504576000,
+  "prev": "c16c9f66e16d8145da0d1607812a9444b2e5a5ce57f8ee7ec422f106e22c49bf",
+  "seqno": 19,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgA9DdyqeOH2PwzGRvLOslmAbKkRnFleajedyVNZ6qbcUKp3BheWxvYWTESpcCE8QgwWyfZuFtgUXaDRYHgSqURLLlpc5X+O5+xCLxBuIsSb/EIHCPpj0SPCTL7ZwPNgAJKuKJv9AfYouNMLROgM/aO/86AgHCo3NpZ8RA7q930XZ+GDyc26GUZauF5HUIQvW3RjIHCHjCZzmJdF42kCFXQ5aRnd6oyB1Mg71swUYVu8jtHLANOqrlebQFBqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIJgNiHZHlyIn6ya7zBw9n/x3yJDttQT/GYC8KQFcBMxfo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/cgural
+
+==================================================================
